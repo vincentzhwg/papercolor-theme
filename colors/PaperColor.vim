@@ -98,17 +98,17 @@ fun! s:register_default_theme()
         \       'diffchange_fg': ['#444444', '238'],
         \       'diffchange_bg': ['#ffd787', '222'],
         \       'tabline_bg':          ['#005f87', '24'],
-        \       'tabline_active_fg':   ['#444444', '238'],
-        \       'tabline_active_bg':   ['#e4e4e4', '254'],
-        \       'tabline_inactive_fg': ['#eeeeee', '255'],
-        \       'tabline_inactive_bg': ['#0087af', '31'],
+        \       'tabline_inactive_fg':   ['#444444', '238'],
+        \       'tabline_inactive_bg':   ['#e4e4e4', '254'],
+        \       'tabline_active_fg': ['#eeeeee', '255'],
+        \       'tabline_active_bg': ['#0087af', '31'],
         \       'buftabline_bg':          ['#005f87', '24'],
         \       'buftabline_current_fg':  ['#444444', '238'],
         \       'buftabline_current_bg':  ['#e4e4e4', '254'],
-        \       'buftabline_active_fg':   ['#eeeeee', '255'],
-        \       'buftabline_active_bg':   ['#005faf', '25'],
-        \       'buftabline_inactive_fg': ['#eeeeee', '255'],
-        \       'buftabline_inactive_bg': ['#0087af', '31']
+        \       'buftabline_inactive_fg':   ['#eeeeee', '255'],
+        \       'buftabline_inactive_bg':   ['#005faf', '25'],
+        \       'buftabline_active_fg': ['#eeeeee', '255'],
+        \       'buftabline_active_bg': ['#0087af', '31']
         \     }
         \   }
 
@@ -188,17 +188,17 @@ fun! s:register_default_theme()
         \       'diffchange_fg': ['#d0d0d0', '252'],
         \       'diffchange_bg': ['#005f5f', '23'],
         \       'tabline_bg':          ['#262626', '235'],
-        \       'tabline_active_fg':   ['#121212', '233'],
-        \       'tabline_active_bg':   ['#00afaf', '37'],
-        \       'tabline_inactive_fg': ['#bcbcbc', '250'],
-        \       'tabline_inactive_bg': ['#585858', '240'],
+        \       'tabline_inactive_fg':   ['#121212', '233'],
+        \       'tabline_inactive_bg':   ['#00afaf', '37'],
+        \       'tabline_active_fg': ['#bcbcbc', '250'],
+        \       'tabline_active_bg': ['#585858', '240'],
         \       'buftabline_bg':          ['#262626', '235'],
         \       'buftabline_current_fg':  ['#121212', '233'],
         \       'buftabline_current_bg':  ['#00afaf', '37'],
-        \       'buftabline_active_fg':   ['#00afaf', '37'],
-        \       'buftabline_active_bg':   ['#585858', '240'],
-        \       'buftabline_inactive_fg': ['#bcbcbc', '250'],
-        \       'buftabline_inactive_bg': ['#585858', '240']
+        \       'buftabline_inactive_fg':   ['#00afaf', '37'],
+        \       'buftabline_inactive_bg':   ['#585858', '240'],
+        \       'buftabline_active_fg': ['#bcbcbc', '250'],
+        \       'buftabline_active_bg': ['#585858', '240']
         \     }
         \   }
 endfun
